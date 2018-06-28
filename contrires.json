@@ -1,0 +1,22 @@
+[
+	{
+		"Name": "Germany",
+		"Capital": "Berlin",
+		"Population": "80,716,000"
+	},
+	{
+		"Name": "Spain",
+		"Capital": "Madrid",
+		"Population": "46,723,314"
+	},
+	{
+		"Name": "Italy",
+		"Capital": "Rome",
+		"Population": "60,786,668"
+	},
+	{
+		"Name": "Norway",
+		"Capital": "Osin",
+		"Population": "5,136,700"
+	}
+]
